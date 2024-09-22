@@ -37,7 +37,10 @@ This is a boilerplate for a React Three Fiber project.
 ## `Quick Start`
 
 ```bash
-git clone
+git clone https://github.com/d3ttl4ff/react-three-fiber-boilerplate.git
+```
+
+```bash
 npm install
 npm run dev
 ```
