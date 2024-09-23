@@ -17,18 +17,17 @@ This is a boilerplate for a React Three Fiber project.
 .
 └── src/
     ├── Experience/
-    │   └── components/
-    │       ├── Environment/
-    │       │   ├── Lights.jsx
-    │       │   └── index.jsx
-    │       ├── Utils/
-    │       │   ├── LevaPane.jsx
-    │       │   ├── PerformenceMonitor.jsx
-    │       │   └── index.jsx
-    │       ├── World/
-    │       │   ├── Base.jsx
-    │       │   └── index.jsx
-    │       └── Experience.jsx
+    │   ├── Environment/
+    │   │   ├── Lights.jsx
+    │   │   └── index.jsx
+    │   ├── Utils/
+    │   │   ├── LevaPane.jsx
+    │   │   ├── PerformenceMonitor.jsx
+    │   │   └── index.jsx
+    │   ├── World/
+    │   │   ├── Base.jsx
+    │   │   └── index.jsx
+    │   └── Experience.jsx
     ├── style.css
     ├── index.html
     └── index.jsx
