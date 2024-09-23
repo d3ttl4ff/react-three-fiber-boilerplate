@@ -21,7 +21,7 @@ This is a boilerplate for React Three Fiber projects.
     │   ├── common/
     │   │   ├── index.jsx
     │   │   ├── LevaPane.jsx
-    │   │   └── PerformenceMonitor.jsx
+    │   │   └── PerformanceMonitor.jsx
     │   ├── environment/
     │   │   ├── index.jsx
     │   │   └── Lights.jsx
