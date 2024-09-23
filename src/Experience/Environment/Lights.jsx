@@ -13,7 +13,7 @@ const Lights = () => {
         shadow-camera-bottom={-5}
         shadow-camera-left={-5}
       />
-      <ambientLight />
+      <ambientLight intensity={1.5} />
     </>
   );
 };
