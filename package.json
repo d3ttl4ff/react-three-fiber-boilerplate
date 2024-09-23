@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "update-deps": "npm install @react-three/drei@latest @react-three/fiber@latest leva@latest r3f-perf@latest react@latest react-dom@latest three@latest"
   },
   "dependencies": {
     "@react-three/drei": "^9.113.0",
