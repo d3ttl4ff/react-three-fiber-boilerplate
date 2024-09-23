@@ -4,7 +4,7 @@ This is a boilerplate for React Three Fiber projects.
 
 ## `Features`
 
-|                                 Feature                                  | Version Installed |                                   Descriptions                                    |
+|                                 Feature                                  | Version Installed |                                    Description                                    |
 | :----------------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------------------: |
 |     [react-three-fiber](https://github.com/pmndrs/react-three-fiber)     |  8.17.7 `latest`  |                react-three-fiber is a React renderer for threejs.                 |
 |            [react-three-drei](https://github.com/pmndrs/drei)            | 9.113.0 `latest`  | A collection of useful helpers and ready-made abstractions for react-three-fiber. |
