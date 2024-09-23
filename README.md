@@ -17,17 +17,17 @@ This is a boilerplate for React Three Fiber projects.
 ```bash
 .
 └── src/
-    ├── Experience/
-    │   ├── Environment/
-    │   │   ├── Lights.jsx
-    │   │   └── index.jsx
-    │   ├── Utils/
+    ├── experience/
+    │   ├── common/
+    │   │   ├── index.jsx
     │   │   ├── LevaPane.jsx
-    │   │   ├── PerformenceMonitor.jsx
-    │   │   └── index.jsx
-    │   ├── World/
-    │   │   ├── Base.jsx
-    │   │   └── index.jsx
+    │   │   └── PerformenceMonitor.jsx
+    │   ├── environment/
+    │   │   ├── index.jsx
+    │   │   └── Lights.jsx
+    │   ├── world/
+    │   │   ├── index.jsx
+    │   │   └── Base.jsx
     │   └── Experience.jsx
     ├── style.css
     ├── index.html
