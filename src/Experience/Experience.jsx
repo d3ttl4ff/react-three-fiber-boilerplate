@@ -1,6 +1,6 @@
 import { OrbitControls } from '@react-three/drei';
-import { PerformenceMonitor } from './Utils';
-import { Lights } from './Environment';
+import { PerformenceMonitor } from './common';
+import { Lights } from './environment';
 import { Base } from './World';
 
 const Experience = () => {
