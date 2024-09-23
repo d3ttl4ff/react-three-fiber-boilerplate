@@ -3,7 +3,7 @@ import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Canvas } from '@react-three/fiber';
 import Experience from './Experience/Experience';
-import { LevaPane } from './Experience/components/Utils';
+import { LevaPane } from './Experience/Utils';
 
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 
