@@ -1,6 +1,6 @@
 # React Three Fiber Boilerplate
 
-This is a boilerplate for a React Three Fiber project.
+This is a boilerplate for React Three Fiber projects.
 
 ## `Features`
 
