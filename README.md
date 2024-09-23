@@ -4,12 +4,13 @@ This is a boilerplate for a React Three Fiber project.
 
 ## `Features`
 
-|                             Feature                              |                                   Descriptions                                   |
-| :--------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| [React Three Fiber](https://github.com/pmndrs/react-three-fiber) |                react-three-fiber is a React renderer for threejs.                |
-|              [Drei](https://github.com/pmndrs/drei)              | A collection of useful helpers and ready-made abstractions for react-three-fiber |
-|              [Leva](https://github.com/pmndrs/leva)              |           A GUI component for debugging react three fiber applications           |
-|         [r3f-perf](https://github.com/utsuboco/r3f-perf)         |         Monitor the performances of your react-three-fiber application.          |
+|                                 Feature                                  |                                   Descriptions                                   |
+| :----------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|     [react-three-fiber](https://github.com/pmndrs/react-three-fiber)     |                react-three-fiber is a React renderer for threejs.                |
+|            [react-three-drei](https://github.com/pmndrs/drei)            | A collection of useful helpers and ready-made abstractions for react-three-fiber |
+|                  [leva](https://github.com/pmndrs/leva)                  |           A GUI component for debugging react three fiber applications           |
+|             [r3f-perf](https://github.com/utsuboco/r3f-perf)             |         Monitor the performances of your react-three-fiber application.          |
+| [vite-plugin-restart](https://www.npmjs.com/package/vite-plugin-restart) |                    Custom files/globs to restart Vite server                     |
 
 ## `Folder Structure`
 
