@@ -3,7 +3,7 @@ import { useControls } from 'leva';
 
 const PerformenceMonitor = () => {
   const { performance } = useControls({
-    performance: true,
+    performance: false,
   });
 
   return <>{performance ? <Perf position="top-left" /> : null}</>;
