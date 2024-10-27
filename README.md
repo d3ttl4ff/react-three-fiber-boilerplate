@@ -48,5 +48,8 @@ git clone https://github.com/d3ttl4ff/react-three-fiber-boilerplate.git
 
 ```bash
 npm install
+```
+
+```bash
 npm run dev
 ```
