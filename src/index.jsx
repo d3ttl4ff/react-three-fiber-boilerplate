@@ -7,10 +7,6 @@ import Experience from './experience/Experience.jsx';
 
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 
-const created = ({ gl }) => {
-  gl.setClearColor('#05070f', 1);
-};
-
 root.render(
   <StrictMode>
     <LevaPane />
@@ -21,7 +17,6 @@ root.render(
         far: 100,
         position: [-4, 3, 6],
       }}
-      onCreated={created}
     >
       <Experience />
     </Canvas>
