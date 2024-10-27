@@ -7,13 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "update-deps": "npm install @react-three/drei@latest @react-three/fiber@latest leva@latest r3f-perf@latest react@latest react-dom@latest three@latest && npm install --save-dev vite-plugin-restart@latest"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@react-three/drei": "^9.113.0",
     "@react-three/fiber": "^8.17.7",
-    "leva": "^0.9.35",
+    "@react-three/postprocessing": "^2.16.3",
+    "leva": "^0.9.34",
+    "postprocessing": "^6.36.3",
     "r3f-perf": "^7.2.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
