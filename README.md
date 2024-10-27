@@ -27,7 +27,8 @@ This is a boilerplate for React Three Fiber projects.
     │   │   └── PerformanceMonitor.jsx
     │   ├── environment/
     │   │   ├── index.jsx
-    │   │   └── Lights.jsx
+    │   │   ├── Lights.jsx
+    │   │   └── EnvironmentMap.jsx
     │   ├── post-processing/
     │   │   ├── index.jsx
     │   │   └── Effects.jsx
