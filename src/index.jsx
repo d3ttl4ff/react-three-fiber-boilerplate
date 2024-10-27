@@ -2,8 +2,8 @@ import './style.css';
 import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Canvas } from '@react-three/fiber';
-import Experience from './experience/experience';
 import { LevaPane } from './experience/common';
+import Experience from './experience/Experience.jsx';
 
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 
