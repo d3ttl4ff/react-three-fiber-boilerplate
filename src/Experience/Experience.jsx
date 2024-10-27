@@ -1,7 +1,7 @@
 import { OrbitControls } from '@react-three/drei';
 import { Effects } from './post-processing';
 import { PerformenceMonitor } from './common';
-import { Lights } from './environment';
+import { EnvironmentMap, Lights } from './environment';
 import { Base } from './world';
 
 const Experience = () => {
@@ -15,6 +15,7 @@ const Experience = () => {
 
       {/* Environment */}
       <Lights />
+      {/* <EnvironmentMap /> */}
 
       {/* World */}
       <Base />
