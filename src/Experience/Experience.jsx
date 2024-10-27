@@ -7,6 +7,8 @@ import { Base } from './world';
 const Experience = () => {
   return (
     <>
+      <color args={['#05070f']} attach="background" />
+
       {/* <Effects /> */}
 
       <PerformenceMonitor />

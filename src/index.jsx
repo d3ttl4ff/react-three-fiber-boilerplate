@@ -17,6 +17,7 @@ root.render(
         far: 100,
         position: [-4, 3, 6],
       }}
+      onCreated={created}
     >
       <Experience />
     </Canvas>
